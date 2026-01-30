@@ -1,17 +1,19 @@
 Hello All ,
-    This is an info on "Dude Student"
-It is an simple full stack project dude !!
+    This is an info on "Git Commands"
+It is all the basic git commands dude !!
+
 Git commands :
 git clone : "repository link"
 git cd.\Inventory
 git config --global user.name "vishnu-shanz"
 git config --global user.email "shanmugavishnu365@gmail.com"
-git add .\info.txt
+git add .\info.txt // add the files in the staging area
+git reset // reset the files in staging area
 gid commit -m "feat : added the info.txt"
 git push
 git pull
 git status
-git branch
+git branch // current branch
 git checkout -b "Frontend" //creating new branch
 git checkout main //switching to main branch
 git checkout Frontend //switching to Frontend branch
