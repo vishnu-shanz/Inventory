@@ -11,4 +11,9 @@ gid commit -m "feat : added the info.txt"
 git push
 git pull
 git status
+git branch
+git checkout -b "Frontend" //creating new branch
+git checkout main //switching to main branch
+git checkout Frontend //switching to Frontend branch
+git add. //staging all the current folder files at once
     
