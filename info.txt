@@ -16,4 +16,7 @@ git checkout -b "Frontend" //creating new branch
 git checkout main //switching to main branch
 git checkout Frontend //switching to Frontend branch
 git add. //staging all the current folder files at once
+git push origin Frontend //for pushing the files in frontend branch
+git push origin main //for pushing the files in main branch
+
     
