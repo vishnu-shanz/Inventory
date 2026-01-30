@@ -18,5 +18,11 @@ git checkout Frontend //switching to Frontend branch
 git add. //staging all the current folder files at once
 git push origin Frontend //for pushing the files in frontend branch
 git push origin main //for pushing the files in main branch
+git statsh //put your local changes code in a temp dustbin before pull
+git statsh pop //getting your stashed local file changes and handle the conflict
 
-    
+---- Always pull before push in the git for efficient version handling ----
+
+git branch -M "Front-end" //for renaming the branch
+git branch -a //to display all the branches ever created ,
+If you need the branches created in cloud then do "git pull" as a main branch and again do "git branch -a"//
