@@ -1,2 +1,3 @@
 Hello All ,
-    This is an info on ""Dude Student"
+    This is an info on "Dude Student"
+It is an simple full stack project dude !!
