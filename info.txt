@@ -1,3 +1,14 @@
 Hello All ,
     This is an info on "Dude Student"
 It is an simple full stack project dude !!
+Git commands :
+git clone : "repository link"
+git cd.\Inventory
+git config --global user.name "vishnu-shanz"
+git config --global user.email "shanmugavishnu365@gmail.com"
+git add .\info.txt
+gid commit -m "feat : added the info.txt"
+git push
+git pull
+git status
+    
